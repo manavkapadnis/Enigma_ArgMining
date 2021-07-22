@@ -11,13 +11,17 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 
 ### Sections
 1. [System description paper](#system-description-paper)
-2. [Results](#results)
-3. [Task Details](#task-details)
-4. [Acknowledgements](#acknowledgements)
+2. [Architecture]
+3. [Results](#results)
+4. [Task Details](#task-details)
+5. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper  (pending)
-Our paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
+Our paper can be found [here]().  
 Our presentation for the conference can be found [here]().
+
+## Architecture
+
 
 ## Results  
 Results of different models on the test dataset can be found here:
