@@ -15,7 +15,7 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 3. [Task Details](#task-details)
 4. [Acknowledgements](#acknowledgements)
 
-## System Description Paper  
+## System Description Paper  (pending)
 Our paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
 Our presentation for the conference can be found [here]().
 
@@ -39,10 +39,10 @@ The table below represents results of models on vanilla text, for additional inf
 Our Final Leaderboard Test mAP Strict: **0.872** ; mAP Relaxed: **0.966**  
 Post Evaluation Leaderboard Test mAP Strict: **0.921** ; mAP Relaxed: **0.982**
 
-### File descriptions:  
+### File descriptions:  (pending)
 
 
-### How to Run:
+### How to Run: (pending)
 We have combined the three files of each of the train and dev sets into single train.csv and val.csv files that are too large to upload on github, so I have added them on drive and shared the link over here.
 
 Combined Dataset with Features - https://tinyurl.com/CombinedDatasetWithFeatures
