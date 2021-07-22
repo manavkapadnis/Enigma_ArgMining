@@ -11,7 +11,7 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 
 ### Sections
 1. [System description paper](#system-description-paper)
-2. [Architecture]
+2. [Transformer Architecture](#architecture)
 3. [Results](#results)
 4. [Task Details](#task-details)
 5. [Acknowledgements](#acknowledgements)
@@ -20,8 +20,11 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 Our paper can be found [here]().  
 Our presentation for the conference can be found [here]().
 
-## Architecture
+## Transformer Architecture
 
+The Transformer Architecture used by us is shown in the figure. We used the pre-trained models realeased by [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).
+
+![Transformer Architecture](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/model_architecture.png)
 
 ## Results  
 Results of different models on the test dataset can be found here:
