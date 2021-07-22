@@ -214,10 +214,6 @@ Please submit your solutions via CodaLab: <https://competitions.codalab.org/comp
 
 Contacts
 --------------------
- 
-Please join us on:
-`https://groups.google.com/g/kpa_2021_shared_task` to receive e-mail updates whenever new data is made available for the shared task.
-<br>
   
 Contact the organizers at `KPA_2021_shared_task_organizers@googlegroups.com'
 
