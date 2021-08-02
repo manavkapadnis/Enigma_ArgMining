@@ -10,7 +10,7 @@ Given an input corpus, consisting of a collection of relatively short, opinionat
 Official repository of the task can be found [here](https://github.com/IBM/KPA_2021_shared_task).
 
 ### Sections
-1. [System description paper](#system-description-paper)
+1. [System Description Paper](#system-description-paper)
 2. [Transformer Architecture](#architecture)
 3. [Results](#results)
 4. [Task Details](#task-details)
