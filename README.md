@@ -26,7 +26,7 @@ The Transformer Architecture used by us is shown in the figure. We used the pre-
 
 ![Transformer Architecture](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/model_architecture.png)
 
-## Results  
+## Results
 Results of different models on the test dataset can be found here:
 The results have been in terms of the **mAP Strict** (mean average precision) and **mAP Relaxed** (mean average precision) scores.
 
