@@ -2,7 +2,7 @@
 
 This is our attempt of the shared task on **Quantitative Summarization – Key Point Analysis Shared Task** at the [8th Workshop on Argument Mining](https://2021.argmining.org/shared_task_ibm.html#ibm), part of EMNLP 2021.  
 
-## Authors - Manav Nitin Kapadnis, Sohan Patnaik, Siba Smarak Panigrahi, Varun Madhavan
+## Authors - Manav Nitin Kapadnis, Sohan Patnaik, Siba Smarak Panigrahi, Varun Madhavan, Abhilash Nandy
 
 Key Point Analysis (KPA) is a new NLP task, with strong relations to Computational Argumentation, Opinion Analysis, and Summarization ([Bar-Haim et al., ACL-2020](https://www.aclweb.org/anthology/2020.acl-main.371.pdf); [Bar-Haim et al., EMNLP-2020](https://arxiv.org/pdf/2010.05369.pdf)). 
 Given an input corpus, consisting of a collection of relatively short, opinionated texts focused on a topic of interest, the goal of KPA is to produce a succinct list of the most prominent key-points in the input corpus, along with their relative prevalence. Thus, the output of KPA is a bullet-like summary, with an important quantitative angle and an associated well-defined evaluation framework. Successful solutions to KPA can be used to gain better insights from public opinions as expressed in social media, surveys, and so forth, giving rise to a new form of a communication channel between decision makers and people that might be impacted by the decision. 
