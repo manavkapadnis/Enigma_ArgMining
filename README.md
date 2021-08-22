@@ -75,9 +75,9 @@ Key Point Analysis (KPA) is a new NLP task, with strong relations to Computation
 * 2021-06-24: Test data release; Evaluation start
 * 2021-06-30: Evaluation end; submission closed
 * 2021-07-08: Results Announce
-* 2021-08-05: Paper submission due
-* 2021-09-05: Notification to authors
-* 2021-09-15: Camera-ready version due
+* 2021-08-20: Paper submission due
+* 2021-09-15: Notification to authors
+* 2021-09-23: Camera-ready version due
 * 2021-11-10: ArgMining 2021 workshop (EMNLP)
 
 Dates are specified in the ISO 8601 format.
