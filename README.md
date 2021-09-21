@@ -46,14 +46,19 @@ The table below represents results of models on vanilla text, for additional inf
 Our Final Leaderboard Test mAP Strict: **0.872** ; mAP Relaxed: **0.966**  
 Post Evaluation Leaderboard Test mAP Strict: **0.921** ; mAP Relaxed: **0.982**
 
-### File descriptions:  (pending)
+### File descriptions:  
+1. Ablation Study - This folder contains the python scripts for the ablations studies carried out by us i.e., boosting, addition of definition of nouns to the input, concatenation of argument and key point, average of hidden states. 
+2. Appendix C - This folder contains the python notebooks for results described in section C of Appendix. This includes two files, one which implements the model with POS and Dependency features of both the main dataset and the additional dataset (STS and IBM-Rank-30k) and the other implements tf-idf features for both the datasets.
+3. Combined Dataset Files Creation - This folder contains python notebooks which are used to create the train and the test dataset.
+4. Track 1 - Key Point Matching - This folder contains the python notebooks which implements our baseline model without any additional features, model with additional features (POS and Dependency), model with tf-idf features and model with training of additional data (STS and IBM-Rank-30k).
+5. train_dev_test_dataset - This folder contains the original dataset as provided by the organizers.
 
-
-### How to Run: (pending)
-We have combined the three files of each of the train and dev sets into single train.csv and val.csv files that are too large to upload on github, so I have added them on drive and shared the link over here.
+### How to Run: 
+We have combined the three files of each of the train and dev sets into single train.csv and val.csv files that are too large to upload on github, so we have added them on drive and shared the link over here.
 
 Combined Dataset with Features - https://tinyurl.com/CombinedDatasetWithFeatures
 
+First run the notebooks in the 'Combined Dataset Files Creation' which will create the required train and test data. Then, in order to reproduce our results, run the respective codes from the different folders.
 
 ## Task Details
 
