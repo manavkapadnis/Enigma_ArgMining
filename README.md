@@ -17,8 +17,8 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 5. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper
-Our paper can be found [here]().  
-Our presentation for the conference can be found [here]()
+Our paper can be found [here](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/Paper.pdf).  
+<!--Our presentation for the conference can be found [here]()-->
 
 ## Transformer Architecture
 
