@@ -22,7 +22,7 @@ Our paper can be found [here](https://github.com/manavkapadnis/Enigma_ArgMining/
 
 ## Transformer Architecture
 
-The Transformer Architecture used by us is shown in the figure. We used the pre-trained models realeased by [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).
+The Transformer Architecture used by us is shown in the figure. We used the pre-trained models released by [HuggingFace](https://huggingface.co/transformers/pretrained_models.html).
 
 ![Transformer Architecture](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/model_architecture.png)
 
