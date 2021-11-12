@@ -13,8 +13,9 @@ Official repository of the task can be found [here](https://github.com/IBM/KPA_2
 1. [System Description Paper](#system-description-paper)
 2. [Transformer Architecture](#architecture)
 3. [Results](#results)
-4. [Task Details](#task-details)
-5. [Acknowledgements](#acknowledgements)
+4. [Poster Image](#poster-image)
+5. [Task Details](#task-details)
+6. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper
 Our paper can be found [here](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/Paper.pdf).  
@@ -59,6 +60,9 @@ We have combined the three files of each of the train and dev sets into single t
 Combined Dataset with Features - https://tinyurl.com/CombinedDatasetWithFeatures
 
 First run the notebooks in the 'Combined Dataset Files Creation' which will create the required train and test data. Then, in order to reproduce our results, run the respective codes from the different folders.
+
+## Poster:
+![Poster Image](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/ArgMining_Poster_image.PNG)
 
 ## Task Details
 
