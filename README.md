@@ -220,27 +220,7 @@ When *kpm_data_dir* stands for the input folder, and *predictions_file* stands f
 </p>
 </details>
 
-<details><summary><b>Competition Details</b></summary>
-<p>
-  
-Submission
---------------------
-
-Please submit your solutions via CodaLab: <https://competitions.codalab.org/competitions/31166#participate>
-
-Contacts
---------------------
-  
-Contact the organizers at `KPA_2021_shared_task_organizers@googlegroups.com'
-
-Terms and Conditions
---------------------
- 
-By submitting results to this competition, you consent to the public release of your scores at the ArgMining workshop and in the associated proceedings, at the task organizers' discretion. Scores may include but are not limited to, automatic and manual quantitative judgments, qualitative judgments, and such other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers. You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgment that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science. You further agree that your system may be named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers. Wherever appropriate, academic citation for the sending group would be added (e.g. in a paper summarizing the task).
-
-Competitions should comply with any general rules of EMNLP. The organizers are free to penalize or disqualify for any violation of the above rules or for misuse, unethical behaviour or other behaviours they agree are not accepted in a scientific competition in general and in the specific one at hand.
-  
-### Citation
+## Citation
   
   If you want to us this code in your work, please add the following citation -
   
@@ -263,6 +243,28 @@ Competitions should comply with any general rules of EMNLP. The organizers are f
     abstract = "We present the system description for our submission towards the Key Point Analysis Shared Task at ArgMining 2021. Track 1 of the shared task requires participants to develop methods to predict the match score between each pair of arguments and key points, provided they belong to the same topic under the same stance. We leveraged existing state of the art pre-trained language models along with incorporating additional data and features extracted from the inputs (topics, key points, and arguments) to improve performance. We were able to achieve mAP strict and mAP relaxed score of 0.872 and 0.966 respectively in the evaluation phase, securing 5th place on the leaderboard. In the post evaluation phase, we achieved a mAP strict and mAP relaxed score of 0.921 and 0.982 respectively.",
 }
   ```
+
+<details><summary><b>Competition Details</b></summary>
+<p>
+  
+Submission
+--------------------
+
+Please submit your solutions via CodaLab: <https://competitions.codalab.org/competitions/31166#participate>
+
+Contacts
+--------------------
+  
+Contact the organizers at `KPA_2021_shared_task_organizers@googlegroups.com'
+
+Terms and Conditions
+--------------------
+ 
+By submitting results to this competition, you consent to the public release of your scores at the ArgMining workshop and in the associated proceedings, at the task organizers' discretion. Scores may include but are not limited to, automatic and manual quantitative judgments, qualitative judgments, and such other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers. You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgment that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science. You further agree that your system may be named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers. Wherever appropriate, academic citation for the sending group would be added (e.g. in a paper summarizing the task).
+
+Competitions should comply with any general rules of EMNLP. The organizers are free to penalize or disqualify for any violation of the above rules or for misuse, unethical behaviour or other behaviours they agree are not accepted in a scientific competition in general and in the specific one at hand.
+  
+
   
   
 
