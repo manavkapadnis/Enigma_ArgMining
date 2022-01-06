@@ -64,6 +64,30 @@ First run the notebooks in the 'Combined Dataset Files Creation' which will crea
 ## Poster:
 ![Poster Image](https://github.com/manavkapadnis/Enigma_ArgMining/blob/main/ArgMining_Poster_image.PNG)
 
+## Citation
+  
+  If you want to us this code in your work, please add the following citation -
+  
+  ```
+  @inproceedings{kapadnis-etal-2021-team,
+    title = "Team Enigma at {A}rg{M}ining-{EMNLP} 2021: Leveraging Pre-trained Language Models for Key Point Matching",
+    author = "Kapadnis, Manav  and
+      Patnaik, Sohan  and
+      Panigrahi, Siba  and
+      Madhavan, Varun  and
+      Nandy, Abhilash",
+    booktitle = "Proceedings of the 8th Workshop on Argument Mining",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.argmining-1.21",
+    doi = "10.18653/v1/2021.argmining-1.21",
+    pages = "200--205",
+    abstract = "We present the system description for our submission towards the Key Point Analysis Shared Task at ArgMining 2021. Track 1 of the shared task requires participants to develop methods to predict the match score between each pair of arguments and key points, provided they belong to the same topic under the same stance. We leveraged existing state of the art pre-trained language models along with incorporating additional data and features extracted from the inputs (topics, key points, and arguments) to improve performance. We were able to achieve mAP strict and mAP relaxed score of 0.872 and 0.966 respectively in the evaluation phase, securing 5th place on the leaderboard. In the post evaluation phase, we achieved a mAP strict and mAP relaxed score of 0.921 and 0.982 respectively.",
+}
+  ```
+
 ## Task Details
 
 8th ArgMining Workshop Quantitative Summarization – Key Point Analysis Shared Task
@@ -240,29 +264,6 @@ By submitting results to this competition, you consent to the public release of 
 
 Competitions should comply with any general rules of EMNLP. The organizers are free to penalize or disqualify for any violation of the above rules or for misuse, unethical behaviour or other behaviours they agree are not accepted in a scientific competition in general and in the specific one at hand.
   
-## Citation
-  
-  If you want to us this code in your work, please add the following citation -
-  
-  ```
-  @inproceedings{kapadnis-etal-2021-team,
-    title = "Team Enigma at {A}rg{M}ining-{EMNLP} 2021: Leveraging Pre-trained Language Models for Key Point Matching",
-    author = "Kapadnis, Manav  and
-      Patnaik, Sohan  and
-      Panigrahi, Siba  and
-      Madhavan, Varun  and
-      Nandy, Abhilash",
-    booktitle = "Proceedings of the 8th Workshop on Argument Mining",
-    month = nov,
-    year = "2021",
-    address = "Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.argmining-1.21",
-    doi = "10.18653/v1/2021.argmining-1.21",
-    pages = "200--205",
-    abstract = "We present the system description for our submission towards the Key Point Analysis Shared Task at ArgMining 2021. Track 1 of the shared task requires participants to develop methods to predict the match score between each pair of arguments and key points, provided they belong to the same topic under the same stance. We leveraged existing state of the art pre-trained language models along with incorporating additional data and features extracted from the inputs (topics, key points, and arguments) to improve performance. We were able to achieve mAP strict and mAP relaxed score of 0.872 and 0.966 respectively in the evaluation phase, securing 5th place on the leaderboard. In the post evaluation phase, we achieved a mAP strict and mAP relaxed score of 0.921 and 0.982 respectively.",
-}
-  ```
   
   
 
